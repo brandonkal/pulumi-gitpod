@@ -1,0 +1,3 @@
+name: gitpod
+runtime: nodejs
+description: A cloud workspace for demonstrating Pulumi Kubernetes programs
